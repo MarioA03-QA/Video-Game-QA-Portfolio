@@ -69,7 +69,7 @@ Selected weapon becomes equipped by the player character and is available to be 
 PASS
 
 
-Test Case 003 — Switch Between Available Weapons
+## Test Case 003 — Switch Between Available Weapons
 
 ### Preconditions
 

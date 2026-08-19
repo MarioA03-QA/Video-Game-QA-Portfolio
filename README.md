@@ -17,7 +17,7 @@ I am currently developing my QA skills and I am aiming to pursue opportunities i
 
 **Phone Nr:** 07762200238
 
-**GitHub:** 
+**GitHub:** https://github.com/MarioA03-QA/Video-Game-QA-Portfolio.git
 
 
 

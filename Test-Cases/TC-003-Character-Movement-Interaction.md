@@ -10,7 +10,7 @@ PlayStation 5
 
 ## Game Version
 
-Unknown
+9.0.0
 
 ## Test Objective
 

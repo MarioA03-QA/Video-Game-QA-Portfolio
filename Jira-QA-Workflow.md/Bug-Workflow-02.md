@@ -12,7 +12,7 @@ I have also included a description of each workflow element to showcase my under
 
 ### Open
 
-The bug has been identified and documented but has not yet entered the investigation stage.
+The bug has been identified but has not yet entered the investigation stage.
 
 ### In Progress
 

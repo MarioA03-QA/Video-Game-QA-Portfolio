@@ -34,6 +34,3 @@ Test cases
 Bug reports
 Test results
 Regression results
-
-## Conclusion
-Brief summary of the final results after further QA testing has been conducted 

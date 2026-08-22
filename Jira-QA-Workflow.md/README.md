@@ -6,7 +6,7 @@ This section demonstrates my understanding of Jira as a QA tool, including bug m
 
 ## Contents
 
-- [Jira Board](01-Jira-Board.md)
-- [Bug Workflow](02-Bug-Workflow.md)
-- [Bug Report Example](03-Bug-Report-Example.md)
-- [Bug Report Lifecycle](04-Bug-Lifecycle.md)
+- [Jira Board](Jira-Board-01.md)
+- [Bug Workflow](0Bug-Workflow-02.md)
+- [Bug Report Example](Bug-Report-Example-03.md)
+- [Bug Report Lifecycle](Bug-Report-Lifecycle-04.md)

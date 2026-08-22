@@ -4,7 +4,7 @@
 What I am trying to determine through testing.
 
 ## Scope
-What is being tested and why.
+What is being tested.
 
 ## Testing Approach
 Exploratory testing

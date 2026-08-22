@@ -43,8 +43,11 @@ I have created and executed structured test cases covering different gameplay sy
 **Test Suites**
 
  TC-001 / Mafia III / PlayStation 5 / Weapon & Equipment Systems 
+ 
  TC-002 / Dark Souls II / PlayStation 5 / Save & Load Systems 
+ 
  TC-003 / Bloodborne / PlayStation 5 / Character Movement & Interaction 
+ 
  TC-004 / Crusader Kings III / PC / Character & Realm Management 
 
 [View Structured Test Cases](Test-Cases/)
@@ -57,9 +60,11 @@ I have conducted timed exploratory testing sessions across different genres and 
 
 **Exploratory Testing Sessions**
 
-| SESSION-001 / Minecraft | PlayStation 5 / Survival & Gameplay Systems 
-| SESSION-002 / Total War: Rome II | PC / Campaign & UI Systems 
-| SESSION-003 / Silent Hill 2 Remake / PlayStation 5 / Gameplay & Environmental Systems 
+ SESSION-001 / Minecraft | PlayStation 5 / Survival & Gameplay Systems 
+
+ SESSION-002 / Total War: Rome II | PC / Campaign & UI Systems 
+
+ SESSION-003 / Silent Hill 2 Remake / PlayStation 5 / Gameplay & Environmental Systems 
 
 [View Exploratory Testing Sessions](Exploratory-Testing/)
 
@@ -85,13 +90,23 @@ I have conducted timed exploratory testing sessions across different genres and 
 ## Quality Assurance Skills Demonstrated
 
 Manual game testing
+
 Bug identification & documentation
+
 Severity & Priority assessment
+
 Structured test cases
+
 UI testing
+
 Visual & Audio testing
+
 Animation testing
+
 Player character and NPC behaviour testing
+
 Save & Load system testing
+
 Evidence collection
+
 Test documentation

@@ -9,4 +9,4 @@ As part of this, I have also included a Test Strategy example using Silent Hill 
 ## Contents
 
 - [Test Strategy Breakdown](Test-Strategy-Breakdown.md)
-- [Silent Hill 2 Remake Example Test Strategy](Silent-Hill-2-Example-Test-Strategy.md)
+- [Silent Hill 2 Remake Example Test Strategy](Silent-Hill-2-Remake-Example-Test-Strategy.md)
